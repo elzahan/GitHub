@@ -1,0 +1,6 @@
+form testing:
+registration
+autorization
+field validation
+feedback form
+links to user agreements
